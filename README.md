@@ -2,7 +2,7 @@ Este portafolio es desarrollado para poner en práctica las habilidades obtenida
 
 Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando animaciones de bibliotecas externas.
 
-[Proyecto en linea](https://marvelous-tulumba-5063db.netlify.app/)
+[Proyecto en linea](https://jovial-kitten-16f6e7.netlify.app/)
 
 - Capturas de pantalla
 
@@ -24,4 +24,4 @@ Fue desarrollado con HTML, CSS y JS con el uso de framework Bootstrap utilizando
 
 Ocupamos bibliotecas extra.
 
-Creado por Malinali en el bootcamp de Technolochicas PRO.
+Creado por Evelyn en el bootcamp de Technolochicas PRO.
